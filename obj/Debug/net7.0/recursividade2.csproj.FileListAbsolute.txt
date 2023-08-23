@@ -1,0 +1,15 @@
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\bin\Debug\net7.0\recursividade2.exe
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\bin\Debug\net7.0\recursividade2.deps.json
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\bin\Debug\net7.0\recursividade2.runtimeconfig.json
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\bin\Debug\net7.0\recursividade2.dll
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\bin\Debug\net7.0\recursividade2.pdb
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\obj\Debug\net7.0\recursividade2.csproj.AssemblyReference.cache
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\obj\Debug\net7.0\recursividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\obj\Debug\net7.0\recursividade2.AssemblyInfoInputs.cache
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\obj\Debug\net7.0\recursividade2.AssemblyInfo.cs
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\obj\Debug\net7.0\recursividade2.csproj.CoreCompileInputs.cache
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\obj\Debug\net7.0\recursividade2.dll
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\obj\Debug\net7.0\refint\recursividade2.dll
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\obj\Debug\net7.0\recursividade2.pdb
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\obj\Debug\net7.0\recursividade2.genruntimeconfig.cache
+C:\Users\rarig\OneDrive\Documentos\EstruturaDeDados\recursividade2\obj\Debug\net7.0\ref\recursividade2.dll
